@@ -94,7 +94,7 @@ Ahead of starting my B.S. in Cybersecurity and Information Assurance at WGU in A
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](ADD-YOUR-LINKEDIN-URL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/dominique-davis-b81793112)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:masseydn@gmail.com)
 
 ---

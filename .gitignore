@@ -1,0 +1,11 @@
+*.evtx
+*.pcap
+*.pcapng
+*.log
+*.csv
+samples/*
+.env
+*.key
+*.pem
+.venv/
+__pycache__/

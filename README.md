@@ -2,7 +2,7 @@
 
 ### Cybersecurity Student | EMT & Healthcare Operations Professional
 
-🔐 Security Operations, Incident Response, and Risk Management  
+🔐 Security Operations • Incident Response • Risk Management  
 🎓 B.S. Cybersecurity and Information Assurance, Western Governors University — beginning August 2026  
 📍 Arizona
 
@@ -10,59 +10,48 @@
 
 ## About Me
 
-I'm a healthcare and emergency-services professional with **10+ years of experience** in high-pressure operations, including emergency medical services, crisis intervention, case management, and Tier 2 technical support.
+I'm a healthcare and emergency-services professional with **10+ years of experience** in emergency medical services, crisis intervention, case management, and Tier 2 technical support.
 
-My work has consistently involved skills that security teams depend on: **assessing risk, responding to fast-moving incidents, maintaining compliance, documenting critical information, and communicating clearly under pressure.**
+My background has developed skills that transfer directly to cybersecurity: risk assessment, incident prioritization, compliance, technical troubleshooting, documentation, and clear communication under pressure.
 
-Patient triage and security-alert triage share many of the same demands: calm decision-making, accurate prioritization, careful documentation, and disciplined follow-through.
-
-As I begin my B.S. in Cybersecurity and Information Assurance at WGU, I am building practical experience through independent study and hands-on labs focused on networking, Linux, security operations, threat detection, and information assurance.
+I am building hands-on experience with Linux, networking, Python, log analysis, threat detection, and defensive security operations.
 
 ---
 
-## 🎯 Areas of Focus
+## 📂 Featured Projects
 
-- Security Operations and Threat Detection
-- Incident Response
-- Risk Assessment and Mitigation
-- Information Assurance and Compliance
-- Healthcare Data Privacy and HIPAA
-- Security Awareness
+### [DigitalDiaspora](https://github.com/MissEncryption/DigitalDiaspora)
 
----
+A collection of hands-on work involving Linux, Git, Python, networking, system administration, and defensive security fundamentals.
 
-## 🛠️ Skills & Tools
-
-### Security and Information Assurance
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Fundamentals-0A2540?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0A2540?style=flat-square)
-![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-0A2540?style=flat-square)
-![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-0A2540?style=flat-square)
-
-### Technical Support and Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### Healthcare Technology
-
-![EHR/EMR](https://img.shields.io/badge/EHR%2FEMR_Systems-005EB8?style=flat-square)
-![Case Management](https://img.shields.io/badge/Case_Management-005EB8?style=flat-square)
+Current work includes environment configuration, command-line analysis, security tooling, technical documentation, and system baselining.
 
 ---
 
-## 💡 Transferable Strengths
+## 🛠️ Current Practice Areas and Tools
 
-| Healthcare and Emergency Services Experience | Cybersecurity Application |
-|---|---|
-| Patient triage and rapid decision-making | Alert triage and incident prioritization |
-| Crisis de-escalation and communication | Incident response coordination and stakeholder communication |
-| HIPAA compliance and patient-record handling | Data privacy, governance, and secure documentation |
-| Tier 2 technical troubleshooting | Diagnostics, escalation, and root-cause analysis |
-| Working effectively under pressure | Calm, methodical decision-making during security incidents |
+**Systems and Administration**
+
+- Ubuntu 22.04 on WSL2
+- Linux command line and Bash
+- Git and GitHub
+- Windows PowerShell
+- System and package administration
+
+**Security and Analysis**
+
+- Log analysis and alert triage
+- Network and DNS investigation
+- Packet analysis with TShark
+- YARA rule development
+- Nmap, `jq`, `ripgrep`, and ShellCheck
+- Incident documentation and risk assessment
+
+**Programming and Automation**
+
+- Python fundamentals
+- Security-focused scripting
+- Data parsing and command-line automation
 
 ---
 
@@ -72,33 +61,35 @@ As I begin my B.S. in Cybersecurity and Information Assurance at WGU, I am build
 - Beginning CodePath Cybersecurity coursework in September 2026
 - Linux administration and command-line analysis
 - Networking and security fundamentals
-- Security operations workflows, alert triage, and threat detection
-- Hands-on SOC labs documented in this GitHub
+- Python scripting for security analysis and automation
+- Security operations, alert triage, and threat detection
 
 ---
 
-## 📜 Certifications and Credentials
+## 💡 Transferable Strengths
 
-- **Emergency Medical Technician**
-- **Basic Life Support** / CPR / First Aid / AED
-- **Certified Clinical Medical Assistant**
-- **HIPAA Compliance Training**
-- LinkedIn Learning, 2026:
-  - *What Is Generative AI?*
-  - *Everyday AI Concepts*
-  - *AI Literacy for Everyone*
-  - *Microsoft 365 Copilot for Work*
-  - *Ethics in the Age of Generative AI*
+| Healthcare and Emergency Services Experience | Cybersecurity Application |
+|---|---|
+| Patient triage and rapid decision-making | Alert triage and incident prioritization |
+| Crisis de-escalation and communication | Incident coordination and stakeholder communication |
+| HIPAA compliance and patient-record handling | Data privacy, governance, and secure documentation |
+| Tier 2 technical troubleshooting | Diagnostics, escalation, and root-cause analysis |
+| Working effectively under pressure | Calm, methodical decision-making during incidents |
 
 ---
 
-## 📂 Featured Projects
+## 📜 Professional Credentials
 
-### [DigitalDiaspora SOC Lab](https://github.com/MissEncryption/DigitalDiaspora)
+- Certified Emergency Medical Technician
+- Certified Clinical Medical Assistant
+- Basic Life Support / CPR / First Aid / AED
+- HIPAA Compliance Training
 
-A lightweight defensive-security lab built with Ubuntu 22.04 on WSL2. The project focuses on Linux administration, log analysis, packet analysis, YARA, network investigation, and SOC documentation.
+---
 
-More projects and incident-response write-ups will be added as the lab develops.
+## ⚖️ Professional and Ethical Practice
+
+All public work in this GitHub is based on authorized lab activity, independently created material, and sanitized or synthetic data. Confidential, proprietary, personally identifiable, and protected health information is not published.
 
 ---
 

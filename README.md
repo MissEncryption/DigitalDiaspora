@@ -1,10 +1,10 @@
-# Hi, I'm Dominique Davis 👋
+# Dominique 
 
-### EMT & Healthcare Operations Professional transitioning into Cybersecurity
+### Cybersecurity Student | EMT & Healthcare Operations Professional
 
-🎓 Starting my **B.S. in Cybersecurity and Information Assurance** at **Western Governors University** — August 2026
+🔐 Focused on Security Operations, Incident Response, and Risk Management  
+🎓 B.S. Cybersecurity and Information Assurance, Western Governors University — beginning August 2026  
 📍 Greater Phoenix Area, Arizona
-🔐 Building toward **Security Operations (SOC), Incident Response, and Risk Management**
 
 ---
 

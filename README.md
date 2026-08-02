@@ -1,5 +1,3 @@
-# Dominique
-
 ### Cybersecurity Student | EMT & Healthcare Operations Professional
 
 🔐 Security Operations • Incident Response • Risk Management  
